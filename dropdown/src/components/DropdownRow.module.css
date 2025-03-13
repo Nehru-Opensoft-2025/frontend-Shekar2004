@@ -4,6 +4,7 @@
     padding: 10px;
     color: white;
     height: 10vh;
+    border: 1px solid white;
 }
 
 .dropdownRowHeader {
